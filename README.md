@@ -2,13 +2,15 @@
 ======
 
 Vue.js——60分钟快速入门
-------------
+----------------------
+https://github.com/keepfool/vue-tutorials
+
 http://www.cnblogs.com/keepfool/p/5619070.html
 http://www.cnblogs.com/keepfool/p/5625583.html
 http://www.cnblogs.com/keepfool/p/5637834.html
 
-慕课网入门：
-------------
+慕课网：
+-------
 http://www.imooc.com/learn/694
 
 官网：
@@ -16,7 +18,7 @@ http://www.imooc.com/learn/694
 https://cn.vuejs.org/
 
 vueclub：
-------------
+--------
 http://www.vue-js.com/
 
 中级篇：
@@ -47,4 +49,10 @@ https://vuex.vuejs.org/
 
 饿了么官方体验组件：
 ==================
+饿了么官方：
+------------
 http://element.eleme.io/#/zh-CN/component/custom-theme
+
+Muse-UI:
+------------
+http://www.muse-ui.org/#/contentBlock
