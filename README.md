@@ -4,6 +4,8 @@
 Vue.js——60分钟快速入门
 ------------
 http://www.cnblogs.com/keepfool/p/5619070.html
+http://www.cnblogs.com/keepfool/p/5625583.html
+http://www.cnblogs.com/keepfool/p/5637834.html
 
 慕课网入门：
 ------------
