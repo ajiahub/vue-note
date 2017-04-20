@@ -49,7 +49,7 @@ https://github.com/akbarjoudi/yii2-vue
 vue UI框架:
 ----------
 
-vue 只是一个js库，不算框架，他不限制你使用使用UI框架，理论上你可以使用任意 UI 框架。
+vue 只是一个js库，不算框架，他不限制你使用UI框架，理论上你可以使用任意UI框架。
 
 * 饿了么官方体验组件：http://element.eleme.io/#/zh-CN/component/custom-theme
 * 蚂蚁金服：https://ant.design/components/mention-cn/
@@ -64,3 +64,8 @@ vue 只是一个js库，不算框架，他不限制你使用使用UI框架，理论上你可以使用任意 UI 框
 * vue-material：https://vuematerial.github.io/#/
 * vue-strap：http://yuche.github.io/vue-strap/
 * vue-mdl：https://posva.net/vue-mdl/#/installation
+
+第在方icon库推荐:
+----------
+
+* 阿里妈妈UED团队：http://iconfont.cn
