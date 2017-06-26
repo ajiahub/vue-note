@@ -65,6 +65,8 @@ vue 只是一个js库，不算框架，他不限制你使用UI框架，理论上你可以使用任意UI框架。
 * vue-strap：http://yuche.github.io/vue-strap/
 * vue-mdl：https://posva.net/vue-mdl/#/installation
 
+----------
+
 webpack学习资料推荐：
 --------------------
 
