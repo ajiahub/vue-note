@@ -44,6 +44,11 @@ https://github.com/akbarjoudi/yii2-vue
 * https://router.vuejs.org/
 * https://vuex.vuejs.org/
 
+* 知乎专栏
+* 尤雨溪博客（不会搞艺术的程序员不是好设计师）：https://www.zhihu.com/people/evanyou/answers
+* vuex入门教程：https://zhuanlan.zhihu.com/p/24357762
+* 官方demo:https://github.com/vuejs/vuex
+
 ----------
 
 vue UI框架:
@@ -75,10 +80,11 @@ webpack学习资料推荐：
 * http://www.css88.com/doc/webpack2/
 * http://webpack.github.io/docs/
 
-ES6学习资料推荐：
-----------------
-
+ES6（ES2015）学习资料推荐：
+-----------------------
+* 初级：https://segmentfault.com/a/1190000004365693(类，继承，rest语法，神似PHP&JAVA语法的综合体)
 * http://es6.ruanyifeng.com/
+
 
 commonJs学习资料推荐：
 ---------------------
@@ -86,6 +92,6 @@ commonJs学习资料推荐：
 * http://javascript.ruanyifeng.com/nodejs/module.html
 
 第三方icon库推荐:
-----------
+----------------
 
 * 阿里妈妈UED团队：http://iconfont.cn
